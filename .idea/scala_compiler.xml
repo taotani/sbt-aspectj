@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="sbt-aspectj_9194" />
+    <profile name="sbt 2" modules="sbt-aspectj">
+      <option name="deprecationWarnings" value="true" />
+    </profile>
+  </component>
+</project>
